@@ -87,9 +87,8 @@ SpendSense_Cleaned.csv
 
 ### 📊 Main Dashboard
 
-```markdown
 ![SpendSense Dashboard](dashboard.png)
-```
+
 
 ---
 
