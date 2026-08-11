@@ -5,7 +5,7 @@ SpendSense is a Power BI dashboard designed to analyze personal income, expenses
 
 ## 📊 Dashboard Preview
 
-(SpendSence Dashbord.png)
+![SpendSense Dashboard](dashboard.png)
 
 ## 🚀 Features
 
